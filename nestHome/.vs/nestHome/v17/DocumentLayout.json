@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\01detroit\\source\\repos\\nestHome\\nestHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C6C7D2-0F55-4CE6-BBA9-BCB9F4FFF812}|nestHome.csproj|c:\\users\\01detroit\\source\\repos\\nesthome\\nesthome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C6C7D2-0F55-4CE6-BBA9-BCB9F4FFF812}|nestHome.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C6C7D2-0F55-4CE6-BBA9-BCB9F4FFF812}|nestHome.csproj|c:\\users\\01detroit\\source\\repos\\nesthome\\nesthome\\nesthome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9C6C7D2-0F55-4CE6-BBA9-BCB9F4FFF812}|nestHome.csproj|solutionrelative:nesthome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C6C7D2-0F55-4CE6-BBA9-BCB9F4FFF812}|nestHome.csproj|c:\\users\\01detroit\\source\\repos\\nesthome\\nesthome\\helpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C6C7D2-0F55-4CE6-BBA9-BCB9F4FFF812}|nestHome.csproj|solutionrelative:helpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\01detroit\\source\\repos\\nestHome\\nestHome\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\01detroit\\source\\repos\\nestHome\\nestHome\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:53:31.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nestHome",
+              "DocumentMoniker": "C:\\Users\\01detroit\\source\\repos\\nestHome\\nestHome\\nestHome.csproj",
+              "RelativeDocumentMoniker": "nestHome.csproj",
+              "ToolTip": "C:\\Users\\01detroit\\source\\repos\\nestHome\\nestHome\\nestHome.csproj",
+              "RelativeToolTip": "nestHome.csproj",
+              "ViewState": "AQIAABEAAABANPmyQZMZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T07:52:20.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\01detroit\\source\\repos\\nestHome\\nestHome\\Helpers\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\EmailHelper.cs",
+              "ToolTip": "C:\\Users\\01detroit\\source\\repos\\nestHome\\nestHome\\Helpers\\EmailHelper.cs",
+              "RelativeToolTip": "Helpers\\EmailHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:52:02.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
